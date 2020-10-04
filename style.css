@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+#button{
+    height: 30px;
+    width: 60px;
+    color: whitesmoke;
+    background-color: rgb(83, 83, 175);
+}
+
+#textbox{
+    height: 30px;
+    width: 250px;
+}
